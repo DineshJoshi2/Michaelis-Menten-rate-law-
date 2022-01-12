@@ -1,7 +1,7 @@
 # Michaelis-Menten-rate-law-
- Demonstrate how to evaluate the parameters Vmax and KM in the Michaelis–Menten rate law from enzymatic reaction data.
+ Demonstration on how to evaluate the parameters Vmax and KM in the Michaelis–Menten rate law from enzymatic reaction data.
  
- Use the following techniques:
+ Using the following techniques:
  
  a) Lineweaver–Burk plot
  
